@@ -1,0 +1,16 @@
+.navbar{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav{
+    display: flex;
+    gap: 40px;  
+}
+
+.nav__link{
+    text-decoration: none;
+    color: #262626;    
+}
